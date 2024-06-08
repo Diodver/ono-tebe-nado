@@ -17,7 +17,7 @@
 
 :green_circle: [styles](https://github.com/Diodver/ono-tebe-nado/blob/main/styles/style.css)
 
-:large_blue_circle: [readme-file](url)
+:large_blue_circle: [readme-file](https://github.com/Diodver/ono-tebe-nado/blob/main/README.md)
 
 :white_circle: [html page site](https://github.com/Diodver/ono-tebe-nado/blob/main/index.html)
 
